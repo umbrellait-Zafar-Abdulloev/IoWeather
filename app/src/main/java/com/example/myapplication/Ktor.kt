@@ -19,7 +19,7 @@ val client = HttpClient(Android) {
     }
 }
 
-const val API_KEY = "вставьте сюда api ключ, он в телеграме"
+const val API_KEY = ""
 
 @Serializable
 data class WeatherResponse(
